@@ -191,8 +191,8 @@ body {
             flex-direction: column;
         }
         #video {
-            width: 60vh;
-            height: 40vh;
+            width: 100%;
+            height: auto;
             border: 1px solid black;
             margin: 2em 1em 4em 1em;
             align-self: center;
